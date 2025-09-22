@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Email Campaign Manager",
+  "description": "A web-based application to manage and send personalized email campaigns in batches. Features include loading contact lists from Excel, template management, test sends, and a live status log. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
